@@ -1,7 +1,7 @@
 {
   "name": "gulp-typescript-schema",
   "version": "0.1.0",
-  "description": "Gulp bindings for typescript-schema",
+  "description": "Gulp tasks for typescript-schema",
   "main": "dist/lib/index.js",
   "repository": "christyharagan/gulp-typescript-schema",
   "author": {

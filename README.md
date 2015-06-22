@@ -4,7 +4,7 @@ gulp-typescript-schema
 Overview
 --
 
-Gulp bindings for typescript-schema. Allows schema generation as a gulp task.
+Gulp tasks for [typescript-schema](https://github.com/christyharagan/ts-schema). Allows schema generation as a gulp task.
 
 Usage
 --

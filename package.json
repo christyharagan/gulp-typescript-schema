@@ -1,0 +1,29 @@
+{
+  "name": "gulp-typescript-schema",
+  "version": "0.1.0",
+  "description": "Gulp bindings for typescript-schema",
+  "main": "dist/lib/index.js",
+  "repository": "christyharagan/gulp-typescript-schema",
+  "author": {
+    "name": "Christy Haragan",
+    "email": "christy.haragan.github@gmail.com",
+    "url": "https://github.com/christyharagan"
+  },
+  "typescript": {
+    "definition": "gulp-typescript-schema.d.ts"
+  },
+  "keywords": [
+    "gulp",
+    "typescript",
+    "schema",
+    "json",
+    "types"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.0",
+    "typescript": "^1.5.0-beta",
+    "vinyl": "^0.5.0",
+    "typescript-schema": "^0.2.0"
+  }
+}
